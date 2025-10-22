@@ -1,1 +1,8 @@
+streamlit
+pymupdf
+python-pptx
+pillow
+sentence-transformers
+scikit-learn
+numpy
 
