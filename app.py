@@ -22,7 +22,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # ---------- UI ----------
 st.set_page_config(page_title="ClassMind — AI Study Assistant", page_icon="🧠", layout="wide")
-st.title("🧠 ClassMind — AI Study Assistant")
+st.title(" ClassMind — AI Study Assistant")
 st.write("Upload a PDF or PPTX. Get a deck summary (no hallucinations), semantic search, a Mermaid mind map, and Anki flashcards.")
 
 # ---------- Optional OCR (safe fallback) ----------
